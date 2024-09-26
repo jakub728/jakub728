@@ -1,6 +1,6 @@
 ## Hi there my name is Kuba 👋
 
-<!--
+
 **jakub728/jakub728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: email: sulisz.jakub@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: actually my name is Jakub, but short version is Kuba. Like Alexander and Alex
--->
