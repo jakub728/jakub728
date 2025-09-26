@@ -36,10 +36,10 @@ Here are some of the projects I'm proud of:
 
 ## 📫 Get in Touch
 
-- 🌐 My site: [https://jakub728.github.io/my-site/]
+- 🌐 My site: [JakubSulisz](https://jakub728.github.io/my-site/)
 - 💼 GitHub: [github.com/jakub728](https://github.com/jakub728)  
 - 📧 Email: sulisz.jakub@gmail.com  
-- 💬 LinkedIn: (https://www.linkedin.com/in/jakub-sulisz-5a1660368)
+- 💬 LinkedIn: [linkedin.com/jakub-sulisz](https://www.linkedin.com/in/jakub-sulisz-5a1660368)
 
 ---
 
