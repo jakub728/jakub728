@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kuba
 
-I'm a passionate **Full Stack Developer** focused on building modern, scalable web applications using the **MERN stack** — MongoDB, Express, React, Node.js 🚀  
+I'm a passionate **Full Stack Developer** focused on building modern, scalable web applications using the **MERN stack** - MongoDB, Express, React, Node.js 🚀  
 I enjoy turning complex problems into simple, beautiful, and intuitive solutions 🎯
 
 ---
@@ -26,10 +26,10 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 
 Here are some of the projects I'm proud of:
 
-- 🎰 **LottoApp** — Full-stack EuroJackpot number generator   
+- 🎰 **LottoApp** - Full-stack EuroJackpot number generator   
   🌐 (https://lotto-j6xo.onrender.com/)
 
-- ❤️ **Amorio** — React + MongoDB dating site with live messaging 💬, photo uploads 📷, and geolocation 📍  
+- ❤️ **Amorio** - React + MongoDB dating site with live messaging 💬, photo uploads 📷, and geolocation 📍  
   🌐 (https://amorio-g8q6.onrender.com/)
 
 ---
