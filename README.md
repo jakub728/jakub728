@@ -33,7 +33,7 @@ Here are some of the projects I'm proud of:
   🌐 (https://amorio-g8q6.onrender.com/)
 
 - 📺 **VideoApp** - Reac Native TypeScript mobile aplication 📱 designed for searching 🔍 and viweing videos 📼 from YouTube and local ▶️
-  🌐 ([https://amorio-g8q6.onrender.com/](https://github.com/jakub728/VideoAppNext))
+  🌐 ([https://github.com/jakub728/VideoAppNex/](https://github.com/jakub728/VideoAppNext))
 
 ---
 
