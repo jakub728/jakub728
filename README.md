@@ -32,6 +32,9 @@ Here are some of the projects I'm proud of:
 - ❤️ **Amorio** - React + MongoDB dating site with live messaging 💬, photo uploads 📷, and geolocation 📍  
   🌐 (https://amorio-g8q6.onrender.com/)
 
+- 📺 **VideoApp** - Reac Native TypeScript mobile aplication 📱 designed for searching 🔍 and viweing videos 📼 from YouTube and local ▶️
+  🌐 [https://amorio-g8q6.onrender.com/](https://github.com/jakub728/VideoAppNext)
+
 ---
 
 ## 📫 Get in Touch
