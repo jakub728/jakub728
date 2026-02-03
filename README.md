@@ -8,34 +8,35 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend & Mobile
-- **Core:** React ⚛️, JavaScript (ES6+) 📜, HTML5 🧱, CSS3 🎨
-- **Mobile:** **React Native** 📱 (Cross-platform iOS/Android)
-- **Styling:** **Tailwind CSS** 🎨, **Bootstrap** 🅱️
-- **Type Safety:** **TypeScript** 📘, **Zod** 🛡️ (Schema validation)
+- **Core:** React ⚛️, JavaScript (ES6+), HTML5, CSS3
+- **Styling:** **Sass/SCSS** 🎨, **Tailwind CSS** 🌊, **Bootstrap** 🅱️
+- **Build Tools:** **Vite** ⚡, npm/yarn
+- **Mobile:** **React Native** & **Expo** 📱
+- **Type Safety:** **TypeScript** 📘, **Zod** 🛡️
 
 ### ⚙️ Backend & Database
 - **Runtime:** Node.js 🟢, Express.js
 - **Auth:** **JWT (JSON Web Tokens)** 🔑
 - **Database:** MongoDB 🍃 (NoSQL architecture)
+- **API:** REST APIs 🌐
 
 ### ☁️ Cloud & Infrastructure
-- **AWS:** EC2 (Compute), S3 (Storage) ☁️
+- **AWS:** EC2, S3 ☁️
 - **Google Cloud:** GCS (Cloud Storage) 📂
 - **Deployment:** Vercel, Render, Railway, Docker 🐳
 
 ### 🔧 Tools & Workflow
-- **Version Control:** Git 🔀
-- **Testing & API:** Postman 📫, REST APIs 🌐
 - **Project Management:** **Jira** 🏛️, Agile/Scrum
-- **Package Managers:** npm, yarn 📦
+- **Testing:** Postman 📫
+- **Version Control:** Git 🔀, GitHub
 
 ---
 
 ## 🚧 Currently Working On
+- ⚡ Mastering advanced **Sass/SCSS** architectures (BEM, 7-1 pattern).
+- 📱 Building cross-platform mobile apps with **Expo & React Native**.
 - 🏗️ Implementing strict schema validation using **Zod** in full-stack apps.
-- 📱 Developing mobile experiences with **React Native & TypeScript**.
-- 🔐 Enhancing application security with **JWT** and modern auth patterns.
-- ☁️ Mastering **Cloud Services** (AWS/GCS) for media storage and hosting.
+- ☁️ Deploying and managing scalable apps on **AWS EC2**.
 
 ---
 
@@ -44,10 +45,10 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 - 🎰 **LottoApp** - Full-stack EuroJackpot number generator.
   🌐 [Live Demo](https://lotto-j6xo.onrender.com/)
 
-- ❤️ **Amorio** - React + MongoDB dating site with live messaging 💬, photo uploads 📷, and geolocation 📍.
+- ❤️ **Amorio** - React + MongoDB dating site featuring live messaging 💬, photo uploads 📷, and geolocation 📍.
   🌐 [Live Demo](https://amorio-g8q6.onrender.com/)
 
-- 📺 **VideoApp** - **React Native & TypeScript** mobile application 📱 designed for searching 🔍 and viewing videos 📼 from YouTube and local storage.
+- 📺 **VideoApp** - **React Native & TypeScript** mobile application 📱 powered by **Expo**, designed for searching 🔍 and viewing videos 📼.
   📂 [GitHub Repo](https://github.com/jakub728/VideoAppNext)
 
 ---
