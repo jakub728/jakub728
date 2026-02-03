@@ -9,11 +9,13 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 
 ### 💻 Frontend & Mobile
 - **Core:** React ⚛️, JavaScript (ES6+) 📜, HTML5 🧱, CSS3 🎨
-- **Mobile:** React Native 📱 (Cross-platform iOS/Android)
-- **Typed:** TypeScript 📘 (Writing safer, more maintainable code)
+- **Mobile:** **React Native** 📱 (Cross-platform iOS/Android)
+- **Styling:** **Tailwind CSS** 🎨, **Bootstrap** 🅱️
+- **Type Safety:** **TypeScript** 📘, **Zod** 🛡️ (Schema validation)
 
 ### ⚙️ Backend & Database
 - **Runtime:** Node.js 🟢, Express.js
+- **Auth:** **JWT (JSON Web Tokens)** 🔑
 - **Database:** MongoDB 🍃 (NoSQL architecture)
 
 ### ☁️ Cloud & Infrastructure
@@ -24,14 +26,15 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 ### 🔧 Tools & Workflow
 - **Version Control:** Git 🔀
 - **Testing & API:** Postman 📫, REST APIs 🌐
-- **Project Management:** Jira 🏛️, Agile/Scrum
+- **Project Management:** **Jira** 🏛️, Agile/Scrum
 - **Package Managers:** npm, yarn 📦
 
 ---
 
 ## 🚧 Currently Working On
-- 🏗️ Migration of existing projects to **TypeScript** for better scalability.
-- 📱 Developing mobile experiences with **React Native**.
+- 🏗️ Implementing strict schema validation using **Zod** in full-stack apps.
+- 📱 Developing mobile experiences with **React Native & TypeScript**.
+- 🔐 Enhancing application security with **JWT** and modern auth patterns.
 - ☁️ Mastering **Cloud Services** (AWS/GCS) for media storage and hosting.
 
 ---
@@ -53,3 +56,10 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 - 💼 **LinkedIn:** [linkedin.com/jakub-sulisz](https://www.linkedin.com/in/jakub-sulisz-5a1660368)
 - 📧 **Email:** sulisz.jakub@gmail.com
 - 🐙 **GitHub:** [github.com/jakub728](https://github.com/jakub728)
+
+---
+
+## ⚡ Fun Fact
+> I love clean code, good coffee ☕, and solving tough bugs at 2am 🐞💡
+
+Thanks for stopping by! Let’s build something amazing together 💻✨
