@@ -9,14 +9,14 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 
 ### 💻 Frontend & Mobile
 - **Core:** React ⚛️, JavaScript (ES6+), HTML5, CSS3
-- **Styling:** **Sass/SCSS** 🎨, **Tailwind CSS** 🌊, **Bootstrap** 🅱️
-- **Build Tools:** **Vite** ⚡, npm/yarn
-- **Mobile:** **React Native** & **Expo** 📱
-- **Type Safety:** **TypeScript** 📘, **Zod** 🛡️
+- **Styling:** Sass/SCSS 🎨, Tailwind CSS 🌊, Bootstrap 🅱️
+- **Build Tools:** Vite ⚡, npm/yarn
+- **Mobile:** React Native & Expo 📱
+- **Type Safety:** TypeScript 📘, Zod 🛡️
 
 ### ⚙️ Backend & Database
 - **Runtime:** Node.js 🟢, Express.js
-- **Auth:** **JWT (JSON Web Tokens)** 🔑
+- **Auth:** JWT (JSON Web Tokens) 🔑
 - **Database:** MongoDB 🍃 (NoSQL architecture)
 - **API:** REST APIs 🌐
 
@@ -26,17 +26,15 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 - **Deployment:** Vercel, Render, Railway, Docker 🐳
 
 ### 🔧 Tools & Workflow
-- **Project Management:** **Jira** 🏛️, Agile/Scrum
+- **Project Management:** Jira 🏛️, Agile/Scrum
 - **Testing:** Postman 📫
 - **Version Control:** Git 🔀, GitHub
 
 ---
 
 ## 🚧 Currently Working On
-- ⚡ Mastering advanced **Sass/SCSS** architectures (BEM, 7-1 pattern).
 - 📱 Building cross-platform mobile apps with **Expo & React Native**.
 - 🏗️ Implementing strict schema validation using **Zod** in full-stack apps.
-- ☁️ Deploying and managing scalable apps on **AWS EC2**.
 
 ---
 
