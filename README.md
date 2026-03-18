@@ -10,7 +10,7 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 ### 💻 Frontend & Mobile
 - **Core:** React ⚛️, JavaScript (ES6+), HTML5, CSS3
 - **Styling:** Sass/SCSS 🎨, Tailwind CSS 🌊, Bootstrap 🅱️
-- **Build Tools:** Vite ⚡, npm/yarn
+- **Build Tools:** Vite ⚡, npm/yarn/pnpm
 - **Mobile:** React Native & Expo 📱
 - **Type Safety:** TypeScript 📘, Zod 🛡️
 
@@ -23,12 +23,12 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 ### ☁️ Cloud & Infrastructure
 - **AWS:** EC2, S3 ☁️
 - **Google Cloud:** GCS (Cloud Storage) 📂
-- **Deployment:** Vercel, Render, Railway, Docker 🐳
+- **Deployment:** Render, Railway, Docker 🐳
 
 ### 🔧 Tools & Workflow
 - **Project Management:** Jira 🏛️, Agile/Scrum
 - **Testing:** Postman 📫
-- **Version Control:** Git 🔀, GitHub
+- **Version Control:** Git 🔀
 
 ---
 
