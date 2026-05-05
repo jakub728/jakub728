@@ -8,7 +8,7 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend & Mobile
-- **Core:** React ⚛️, JavaScript (ES6+), HTML5, CSS3
+- **Core:** React ⚛️, Next.js(App Router)⚡, JavaScript (ES6+), HTML5, CSS3
 - **Styling:** Sass/SCSS 🎨, Tailwind CSS 🌊, Bootstrap 🅱️
 - **Build Tools:** Vite ⚡, npm/yarn/pnpm
 - **Mobile:** React Native & Expo 📱
@@ -27,18 +27,21 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 
 ### 🔧 Tools & Workflow
 - **Project Management:** Jira 🏛️, Agile/Scrum
-- **Testing:** Postman 📫
+- **Testing:** React Testing Library 🧪, Postman 📫, Thunder Client ⚡
 - **Version Control:** Git 🔀
 
 ---
 
 ## 🚧 Currently Working On
-- 📱 Building cross-platform mobile apps with **Expo & React Native**.
-- 🏗️ Implementing strict schema validation using **Zod** in full-stack apps.
+- 🏗️ Full-Stack E-commerce Platform – Developing a modern web store integrated with a robust Admin Dashboard for inventory and order management. I am building the entire ecosystem using Next.js, leveraging Server Actions and Middleware for a seamless full-stack experience.
 
 ---
 
 ## 📁 Featured Projects
+
+- 🎰 **Onion Meals** - React Native comprehensive meal planning application designed to streamline healthy eating and eliminate food waste
+  🌐 [Preview](https://www.linkedin.com/in/jakub-sulisz/details/projects/)
+  🌐 [Download (only Android](https://expo.dev/accounts/mrdziubek/projects/onion-meal-planner/builds/503eb2e1-2035-4c6b-9c6f-47ca98f64194)
 
 - 🎰 **LottoApp** - Full-stack EuroJackpot number generator.
   🌐 [Live Demo](https://lotto-j6xo.onrender.com/)
