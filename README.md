@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kuba
 
-I'm a passionate **Full Stack Developer** focused on building modern, scalable web and mobile applications. I specialize in the **MERN stack**, now evolving into **TypeScript** and **Cloud Infrastructure** 🚀.
+I'm a passionate **Full Stack Developer** focused on building modern, scalable web and mobile applications. I specialize in the **MERN stack**, now evolving into **Next.js** 🚀
 I enjoy turning complex problems into simple, beautiful, and intuitive solutions 🎯
 
 ---
