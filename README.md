@@ -1,3 +1,4 @@
+```
 --------------------------------------------------------------------  Contact.Email: ........... [sulisz.jakub@gmail.com](mailto:sulisz.jakub@gmail.com)
 --------------------------------------------------------------------  Contact.Web: ............. [jakub.sulisz.pl](https://jakub.sulisz.pl)
 --------------------------------------------------------------------  Contact.LinkedIn: ........ [linkedin.com](https://www.linkedin.com/in/jakub-sulisz/)
@@ -40,3 +41,4 @@
 --------------------------------------------------------------------  Projects.LottoApp: ......... Full-Stack EuroJackpot Generator | [Live Demo]
 --------------------------------------------------------------------  Projects.Amorio: ........... React + MongoDB Dating Platform | [Live Demo]
 --------------------------------------------------------------------  Projects.VideoApp: ......... React Native & TS Video Player | [GitHub]
+```
