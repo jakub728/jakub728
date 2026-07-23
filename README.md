@@ -3,8 +3,8 @@
     <td valign="top">
 <pre>
 ------------------------:-=+#%%%%%%%%%#*+----------------------- Contact.Email: ........... <a href="mailto:sulisz.jakub@gmail.com">sulisz.jakub@gmail.com</a>
----------------------+%@@@@@@@@@@@@@@@@@@@@@@*:----------------- Contact.Web: ............. <a href="[https://jakub.sulisz.pl](https://jakub.sulisz.pl)">jakub.sulisz.pl</a>
--------------------=%@@@@@@@@@@@@@@@@@@@@@@@@@%=---------------- Contact.LinkedIn: ........ <a href="[https://www.linkedin.com/in/jakub-sulisz/](https://www.linkedin.com/in/jakub-sulisz/)">linkedin.com</a>
+---------------------+%@@@@@@@@@@@@@@@@@@@@@@*:----------------- Contact.Web: ............. <a href="https://jakub.sulisz.pl">jakub.sulisz.pl</a>
+-------------------=%@@@@@@@@@@@@@@@@@@@@@@@@@%=---------------- Contact.LinkedIn: ........ <a href="https://www.linkedin.com/in/jakub-sulisz">linkedin.com</a>
 ------------------#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=---------------
 ----------------*@@@%#****++++===+=======++*#@@@@#-------------- Role: .................... Junior Full-Stack Developer
 ---------------#@@*=--:::----------------::::-+%@@#------------- Location: ................ Kraków, Poland
